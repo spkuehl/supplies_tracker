@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'supplies_tracker',
     'sorl.thumbnail',
     'easy_maps',
+    'supplies',
 ]
 
 EASY_MAPS_GOOGLE_MAPS_API_KEY = 'AIzaSyDJjpyz4CTXTuVqRunwcFWGLciSg5Dapm0'
